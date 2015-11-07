@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HDTask</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="limit">Enter the value of N</string>
+    <string name="get">Get Prime Numbers</string>
+</resources>
